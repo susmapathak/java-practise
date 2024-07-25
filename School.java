@@ -31,11 +31,6 @@ public class School {
         // for (Student student : students) {
         //     System.out.println(student.getFirstName() +" " + student.getLastName() + " - " + student.getAge());
         // }
-
-        // System.out.println("\n-----------------------\n--------Teachers---------");
-        // for (Teacher teacher : teachers) {
-        //     System.out.println(teacher.getTeacherName() + " " + teacher.getSubject() + " " + teacher.getSalary());
-        // }
     }
 
     public ArrayList<Student> findStudentByFirstName(String fName){
